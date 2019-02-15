@@ -2,6 +2,8 @@
 
 Start by forking this repo and solving the problem with completed instructions for building/running.
 
+When you are done, open a PR against the original hammerheadnav/interview repo when you're finished.
+
 ## Instructions
 
 Write a simple program in a language of your choice that implementations for three "services" (Strava, RWGPS, and Komoot).
