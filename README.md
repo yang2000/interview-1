@@ -53,11 +53,4 @@ return the user's routes for only the services listed.
 
 ## Building/Running
 
-TODO: replace this sample output with correct instructions to build and run your program(s)
-
-```
-echo 'All routes: ["SRT", "CVT", "Perkiomen", "CVT", "Perkiomen", "Welsh Mountain", "SRT", "Welsh Mountain", "Oaks to Philly"]'
-echo 'Unique routes: ["SRT", "CVT", "Perkiomen", "Welsh Mountain", "Oaks to Philly"]'
-echo 'For user 42: ["42SRT", "42CVT", "42Perkiomen", "CVT42", "Perkiomen42", "Welsh Mountain42", "42SRT42", "42Welsh Mountain42", "42Oaks to Philly42"]'
-echo 'For user 42 services ["Komoot", "RWGPS"]: ["42SRT42", "42Welsh Mountain42", "42Oaks to Philly42", "CVT42", "Perkiomen42", "Welsh Mountain42"]'
-```
+TODO: please provide instructions to build and run your program(s) along with any require tools an dependencies.
