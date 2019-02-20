@@ -12,11 +12,22 @@ Results should be printed to standard output after following the build instructi
 
 ### Services
 
-Each service has the ability to get routes. If an (optional) user is passed, all routes should be prepended with the user id.
+Each service has the ability to get routes. Services can retreive all routes or retrieve routes for a specific user.
 
-* Strava always returns routes `["SRT", "CVT", "Perkiomen"]`
-* RWGPS always returns routes `["CVT", "Perkiomen", "Welsh Mountain"]`
-* Komoot always returns routes `["SRT", "Welsh Mountain", "Oaks to Philly"]`
+#### Strava
+
+* Has fixed routes  `["SRT", "CVT", "Perkiomen"]`
+* For user routes, Strave prepends the user id onto the route.
+
+#### RWGPS
+
+* Has fixed routes  `["CVT", "Perkiomen", "Welsh Mountain"]`
+* For user routes, RWGPS appends the user id onto the route.
+
+#### Komoot
+
+* Has fixed routes  `["SRT", "Welsh Mountain", "Oaks to Philly"]`
+* For user routes, Komoot prepends *and* appends the user id onto the route.
 
 ### Results
 
@@ -47,6 +58,6 @@ TODO: replace this sample output with correct instructions to build and run your
 ```
 echo 'All routes: ["SRT", "CVT", "Perkiomen", "CVT", "Perkiomen", "Welsh Mountain", "SRT", "Welsh Mountain", "Oaks to Philly"]'
 echo 'Unique routes: ["SRT", "CVT", "Perkiomen", "Welsh Mountain", "Oaks to Philly"]'
-echo 'For user 42: ["42SRT", "42CVT", "42Perkiomen", "42CVT", "42Perkiomen", "42Welsh Mountain", "42SRT", "42Welsh Mountain", "42Oaks to Philly"]'
-echo 'For user 42 services ["Komoot", "RWGPS"]: ["42SRT", "42Welsh Mountain", "42Oaks to Philly", "42CVT", "42Perkiomen", "42Welsh Mountain"]'
+echo 'For user 42: ["42SRT", "42CVT", "42Perkiomen", "CVT42", "Perkiomen42", "Welsh Mountain42", "42SRT42", "42Welsh Mountain42", "42Oaks to Philly42"]'
+echo 'For user 42 services ["Komoot", "RWGPS"]: ["42SRT42", "42Welsh Mountain42", "42Oaks to Philly42", "CVT42", "Perkiomen42", "Welsh Mountain42"]'
 ```
