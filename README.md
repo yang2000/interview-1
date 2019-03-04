@@ -1,4 +1,4 @@
-# Hammerhead Interview Development Asssignment
+# Hammerhead Interview Development Assignment
 
 Start by forking this repo and solving the problem with completed instructions for building/running.
 
@@ -17,7 +17,7 @@ Each service has the ability to get routes. Services can retreive all routes or 
 #### Strava
 
 * Has fixed routes  `["SRT", "CVT", "Perkiomen"]`
-* For user routes, Strave prepends the user id onto the route.
+* For user routes, Strava prepends the user id onto the route.
 
 #### RWGPS
 
