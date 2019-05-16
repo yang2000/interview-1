@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MyRouteService": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

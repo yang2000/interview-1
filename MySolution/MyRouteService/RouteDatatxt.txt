@@ -1,0 +1,3 @@
+﻿Strava: ["SRT", "CVT", "Perkiomen"]
+RWGPS: ["CVT", "Perkiomen", "Welsh Mountain"]
+Komoot: ["SRT", "Welsh Mountain", "Oaks to Philly"]

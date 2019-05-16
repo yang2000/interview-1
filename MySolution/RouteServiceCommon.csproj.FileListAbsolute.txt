@@ -1,0 +1,26 @@
+C:\Users\DAD\source\repos\RouteServiceCommon\bin\Debug\netstandard2.0\RouteServiceCommon.deps.json
+C:\Users\DAD\source\repos\RouteServiceCommon\bin\Debug\netstandard2.0\RouteServiceCommon.dll
+C:\Users\DAD\source\repos\RouteServiceCommon\bin\Debug\netstandard2.0\RouteServiceCommon.pdb
+C:\Users\DAD\source\repos\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.csprojAssemblyReference.cache
+C:\Users\DAD\source\repos\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.csproj.CoreCompileInputs.cache
+C:\Users\DAD\source\repos\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.AssemblyInfoInputs.cache
+C:\Users\DAD\source\repos\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.AssemblyInfo.cs
+C:\Users\DAD\source\repos\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.dll
+C:\Users\DAD\source\repos\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.pdb
+C:\Users\DAD\source\repos\to brent\RouteServiceCommon\bin\Debug\netstandard2.0\RouteServiceCommon.deps.json
+C:\Users\DAD\source\repos\to brent\RouteServiceCommon\bin\Debug\netstandard2.0\RouteServiceCommon.dll
+C:\Users\DAD\source\repos\to brent\RouteServiceCommon\bin\Debug\netstandard2.0\RouteServiceCommon.pdb
+C:\Users\DAD\source\repos\to brent\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.csprojAssemblyReference.cache
+C:\Users\DAD\source\repos\to brent\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.csproj.CoreCompileInputs.cache
+C:\Users\DAD\source\repos\to brent\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.AssemblyInfoInputs.cache
+C:\Users\DAD\source\repos\to brent\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.AssemblyInfo.cs
+C:\Users\DAD\source\repos\to brent\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.dll
+C:\Users\DAD\source\repos\to brent\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.pdb
+C:\Users\DAD\source\repos\interview\YW\MyRouteService\MyRouteService\RouteServiceCommon\bin\Debug\netstandard2.0\RouteServiceCommon.deps.json
+C:\Users\DAD\source\repos\interview\YW\MyRouteService\MyRouteService\RouteServiceCommon\bin\Debug\netstandard2.0\RouteServiceCommon.dll
+C:\Users\DAD\source\repos\interview\YW\MyRouteService\MyRouteService\RouteServiceCommon\bin\Debug\netstandard2.0\RouteServiceCommon.pdb
+C:\Users\DAD\source\repos\interview\YW\MyRouteService\MyRouteService\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.csproj.CoreCompileInputs.cache
+C:\Users\DAD\source\repos\interview\YW\MyRouteService\MyRouteService\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.AssemblyInfoInputs.cache
+C:\Users\DAD\source\repos\interview\YW\MyRouteService\MyRouteService\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.AssemblyInfo.cs
+C:\Users\DAD\source\repos\interview\YW\MyRouteService\MyRouteService\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.dll
+C:\Users\DAD\source\repos\interview\YW\MyRouteService\MyRouteService\RouteServiceCommon\obj\Debug\netstandard2.0\RouteServiceCommon.pdb
